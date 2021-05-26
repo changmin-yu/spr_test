@@ -1,0 +1,3 @@
+2021-05-26 06:08:14,666 INFO    MainThread:105930 [internal.py:wandb_internal():91] W&B internal server running at pid: 105930, started at: 2021-05-26 06:08:14.666351
+2021-05-26 06:08:14,674 DEBUG   HandlerThread:105930 [handler.py:handle_request():121] handle_request: run_start
+2021-05-26 06:08:14,675 INFO    WriterThread:105930 [datastore.py:open_for_write():77] open: wandb/offline-run-20210526_060809-3tq4ak45/run-3tq4ak45.wandb

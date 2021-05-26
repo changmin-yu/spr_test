@@ -1,0 +1,13 @@
+2021-05-26 05:36:07,367 INFO    MainThread:58620 [internal.py:wandb_internal():91] W&B internal server running at pid: 58620, started at: 2021-05-26 05:36:07.366462
+2021-05-26 05:36:07,374 INFO    WriterThread:58620 [datastore.py:open_for_write():77] open: wandb/offline-run-20210526_053601-1yn5r9u0/run-1yn5r9u0.wandb
+2021-05-26 05:36:07,376 DEBUG   HandlerThread:58620 [handler.py:handle_request():121] handle_request: run_start
+2021-05-26 05:36:10,198 DEBUG   HandlerThread:58620 [meta.py:__init__():39] meta init
+2021-05-26 05:36:10,199 DEBUG   HandlerThread:58620 [meta.py:__init__():53] meta init done
+2021-05-26 05:36:10,199 DEBUG   HandlerThread:58620 [meta.py:probe():210] probe
+2021-05-26 05:36:10,207 DEBUG   HandlerThread:58620 [meta.py:_setup_git():200] setup git
+2021-05-26 05:36:10,235 DEBUG   HandlerThread:58620 [meta.py:_setup_git():207] setup git done
+2021-05-26 05:36:10,236 DEBUG   HandlerThread:58620 [meta.py:_save_pip():57] save pip
+2021-05-26 05:36:10,238 DEBUG   HandlerThread:58620 [meta.py:_save_pip():71] save pip done
+2021-05-26 05:36:10,238 DEBUG   HandlerThread:58620 [meta.py:_save_conda():78] save conda
+2021-05-26 05:36:10,871 DEBUG   HandlerThread:58620 [meta.py:_save_conda():86] save conda done
+2021-05-26 05:36:10,872 DEBUG   HandlerThread:58620 [meta.py:probe():252] probe done

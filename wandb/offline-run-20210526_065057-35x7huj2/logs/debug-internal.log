@@ -1,0 +1,3 @@
+2021-05-26 06:51:02,804 INFO    MainThread:14522 [internal.py:wandb_internal():91] W&B internal server running at pid: 14522, started at: 2021-05-26 06:51:02.804285
+2021-05-26 06:51:02,813 DEBUG   HandlerThread:14522 [handler.py:handle_request():121] handle_request: run_start
+2021-05-26 06:51:02,814 INFO    WriterThread:14522 [datastore.py:open_for_write():77] open: wandb/offline-run-20210526_065057-35x7huj2/run-35x7huj2.wandb

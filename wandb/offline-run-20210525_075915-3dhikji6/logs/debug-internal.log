@@ -1,0 +1,13 @@
+2021-05-25 07:59:21,733 INFO    MainThread:11369 [internal.py:wandb_internal():91] W&B internal server running at pid: 11369, started at: 2021-05-25 07:59:21.733179
+2021-05-25 07:59:21,740 DEBUG   HandlerThread:11369 [handler.py:handle_request():121] handle_request: run_start
+2021-05-25 07:59:21,741 INFO    WriterThread:11369 [datastore.py:open_for_write():77] open: wandb/offline-run-20210525_075915-3dhikji6/run-3dhikji6.wandb
+2021-05-25 07:59:24,556 DEBUG   HandlerThread:11369 [meta.py:__init__():39] meta init
+2021-05-25 07:59:24,557 DEBUG   HandlerThread:11369 [meta.py:__init__():53] meta init done
+2021-05-25 07:59:24,557 DEBUG   HandlerThread:11369 [meta.py:probe():210] probe
+2021-05-25 07:59:24,565 DEBUG   HandlerThread:11369 [meta.py:_setup_git():200] setup git
+2021-05-25 07:59:24,592 DEBUG   HandlerThread:11369 [meta.py:_setup_git():207] setup git done
+2021-05-25 07:59:24,593 DEBUG   HandlerThread:11369 [meta.py:_save_pip():57] save pip
+2021-05-25 07:59:24,595 DEBUG   HandlerThread:11369 [meta.py:_save_pip():71] save pip done
+2021-05-25 07:59:24,595 DEBUG   HandlerThread:11369 [meta.py:_save_conda():78] save conda
+2021-05-25 07:59:25,214 DEBUG   HandlerThread:11369 [meta.py:_save_conda():86] save conda done
+2021-05-25 07:59:25,214 DEBUG   HandlerThread:11369 [meta.py:probe():252] probe done

@@ -1,0 +1,24 @@
+{
+    "os": "Linux-5.4.0-1047-azure-x86_64-with-debian-buster-sid",
+    "python": "3.6.5",
+    "heartbeatAt": "2021-05-25T10:51:59.474807",
+    "startedAt": "2021-05-25T10:51:51.576226",
+    "docker": null,
+    "gpu": "Tesla P100-PCIE-16GB",
+    "gpu_count": 1,
+    "cpu_count": 6,
+    "cuda": "10.2.89",
+    "args": [],
+    "state": "running",
+    "program": "/home/v-changminyu/Desktop/ChangminYu/reinforcement_learning/spr/scripts/run.py",
+    "codePath": "scripts/run.py",
+    "git": {
+        "remote": "https://github.com/mila-iqia/spr.git",
+        "commit": "78c1ac33d850ee59ab7b4246d19c15328fcb2942"
+    },
+    "email": "changmin.yu.19@ucl.ac.uk",
+    "root": "/home/v-changminyu/Desktop/ChangminYu/reinforcement_learning/spr",
+    "host": "GCRAZGDL0385",
+    "username": "FAREAST.v-changminyu",
+    "executable": "/home/v-changminyu/miniconda3/envs/dreamer_env/bin/python"
+}

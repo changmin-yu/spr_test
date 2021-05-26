@@ -1,0 +1,14 @@
+2021-05-25 11:23:32,160 INFO    MainThread:57552 [internal.py:wandb_internal():91] W&B internal server running at pid: 57552, started at: 2021-05-25 11:23:32.159324
+2021-05-25 11:23:32,168 INFO    WriterThread:57552 [datastore.py:open_for_write():77] open: wandb/offline-run-20210525_112326-372kbwss/run-372kbwss.wandb
+2021-05-25 11:23:32,178 DEBUG   HandlerThread:57552 [handler.py:handle_request():121] handle_request: run_start
+2021-05-25 11:23:35,020 DEBUG   HandlerThread:57552 [meta.py:__init__():39] meta init
+2021-05-25 11:23:35,020 DEBUG   HandlerThread:57552 [meta.py:__init__():53] meta init done
+2021-05-25 11:23:35,020 DEBUG   HandlerThread:57552 [meta.py:probe():210] probe
+2021-05-25 11:23:35,029 DEBUG   HandlerThread:57552 [meta.py:_setup_git():200] setup git
+2021-05-25 11:23:35,056 DEBUG   HandlerThread:57552 [meta.py:_setup_git():207] setup git done
+2021-05-25 11:23:35,056 DEBUG   HandlerThread:57552 [meta.py:_save_pip():57] save pip
+2021-05-25 11:23:35,058 DEBUG   HandlerThread:57552 [meta.py:_save_pip():71] save pip done
+2021-05-25 11:23:35,059 DEBUG   HandlerThread:57552 [meta.py:_save_conda():78] save conda
+2021-05-25 11:23:35,687 DEBUG   HandlerThread:57552 [meta.py:_save_conda():86] save conda done
+2021-05-25 11:23:35,687 DEBUG   HandlerThread:57552 [meta.py:probe():252] probe done
+2021-05-25 11:30:09,263 WARNING MainThread:57552 [internal.py:wandb_internal():147] Internal process interrupt: 1

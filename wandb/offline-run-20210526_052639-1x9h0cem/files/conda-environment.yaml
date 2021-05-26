@@ -1,0 +1,4 @@
+name: dreamer_env
+channels:
+  - defaults
+prefix: /home/v-changminyu/miniconda3/envs/dreamer_env/envs/dreamer_env
